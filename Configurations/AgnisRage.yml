@@ -1,0 +1,9 @@
+AgnisRage:
+  Name: §oAgni's Rage
+  Description: §dHas a chance to set the player hit on fire. Plays a creeper sound
+    upon hitting a player.
+  Type: IRON_SWORD
+  Chance: '50'
+  PlayerOnly: 'false'
+  Damage: '0'
+  FireDuration: '0'
